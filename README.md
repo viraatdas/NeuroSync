@@ -2,7 +2,7 @@
 
 A supervised transformer to convert brain waves (EEG/fMRI) into video (what the person is seeing) and audio (what the person is hearing)
 
-There are two questions we want to answer:
+This is the main question we are trying to answer: 
 1. Provided some calibration, to what degree can we recreate what the person is seeing and listening?
 
 ## TODOs
