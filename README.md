@@ -8,16 +8,6 @@ This is the main question we are trying to answer:
 
 ## TODOs
 
-1. **Data Acquisition and Integration**
-
-   - [ ] Establish protocols for collecting EEG/fMRI data.
-   - [ ] Synchronize brain data with corresponding video and audio inputs.
-
-2. **Data Processing**
-
-   - [ ] Develop methods for EEG/fMRI data analysis.
-   - [ ] Implement video and audio data processing techniques.
-
-3. **Model Development**
-   - [ ] Design and train a multimodal LM
-   - [ ] Integrate brain data processing with the LM
+1. [] Create a dataset of EEG/fMRI data and corresponding audio/video
+2. [] Create a transformer model to convert EEG/fMRI into audio/video
+3. [] Run experiments to evaluate the model
